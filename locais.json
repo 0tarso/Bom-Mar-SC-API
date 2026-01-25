@@ -1,0 +1,1502 @@
+[
+  {
+    "local": "PRAIA DO MORRO DOS CONVENTOS (Ponto 01)",
+    "complemento": "Em frente ao posto de Salva Vidas Central",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 01)",
+    "complemento": "Na Rua Apolônio Ireno Cardoso - 100 metros ao norte do Arroio",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 02)",
+    "complemento": "Na Rua Prezalino Oliveira - 100 metros ao sul do Arroio",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 03)",
+    "complemento": "Em frente à Avenida Mondardo, na foz do Arroio",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 17)",
+    "complemento": "Em frente à Avenida Florianópolis",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 04)",
+    "complemento": "Final da Rua Criciúma",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO DO SILVA (Ponto 05)",
+    "complemento": "Final da Rua Domingo Campos",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "ARROIO DA PRAIA DAS GAIVOTAS (Ponto 02)",
+    "complemento": "Na foz do arroio, no mar",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 01)",
+    "complemento": "Na Avenida Itapuan, em frente à Praça de Esportes",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 03)",
+    "complemento": "Final da Rua R.B - Acesso Onda Azul",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 04)",
+    "complemento": "Final da Sétima Avenida",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 05)",
+    "complemento": "Final da Avenida Crespim João Pereira",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 06)",
+    "complemento": "Final da Avenida Brasília - Acesso Turimar",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS GAIVOTAS (Ponto 07)",
+    "complemento": "Entre à Rua Lages e Rua Joinville",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE LARANJEIRAS (Ponto 06)",
+    "complemento": "No meio da praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE TAQUARAS (Ponto 08)",
+    "complemento": "Em frente à Escola Municipal",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE TAQUARAS (Ponto 09)",
+    "complemento": "Na Lagoa de Taquaras",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 01)",
+    "complemento": "No Pontal Norte",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 02)",
+    "complemento": "Em frente à Rua 1001",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 03)",
+    "complemento": "Em frente à Rua 2000",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 04)",
+    "complemento": "Em frente à Rua 3000",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 05)",
+    "complemento": "Pontal Sul, em frente à Rua n°4900",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 10)",
+    "complemento": "Em frente à Rua n°4000",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 11)",
+    "complemento": "Em frente à Rua n°3500",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 12)",
+    "complemento": "Em frente à Rua n°2500",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 13)",
+    "complemento": "Em frente à Rua n°1400",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALN. CAMBORIÚ (Ponto 14)",
+    "complemento": "Em frente à Rua n°51",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ESTALEIRINHO (Ponto 15)",
+    "complemento": "Em frente à Rua José Amaro da Cunha",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ESTALEIRO (Ponto 07)",
+    "complemento": "Entre às Ruas Domingos Fonseca e Napoleão Vieira",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "CANAL DO LINGUADO (Ponto 02)",
+    "complemento": "Na Prainha da foz do Canal Do Linguado",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "CANAL DO LINGUADO (Ponto 3)",
+    "complemento": "Em frente à Rua Otto Fiedler",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA DO SUL (Ponto 01)",
+    "complemento": "Na Praia do Bispo, em frente à Capela Dos Navegantes",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PIÇARRAS (Ponto 01)",
+    "complemento": "Em frente à Rua Nakle Francisco",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PIÇARRAS (Ponto 02)",
+    "complemento": "Em frente Av. Getúlio Vargas, esquerda do molhe",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DO FAXINAL (Ponto 03)",
+    "complemento": "Em frente ao Parque Verde",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DOS ESTEVES (Ponto 02)",
+    "complemento": "Próximo ao trapiche",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DOS FREITAS (Ponto 01)",
+    "complemento": "Em frente à Rua Camboriú - Próximo ao Posto de Salva Vidas",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RINCÃO (Ponto 04)",
+    "complemento": "Na Rua Paraná, em frente ao Calçadão",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RINCÃO (Ponto 05)",
+    "complemento": "No Arroio da Praia do Rincão",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RINCÃO (Ponto 06)",
+    "complemento": "Em frente à Rua Castro Alves",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RINCÃO (Ponto 07)",
+    "complemento": "Em frente à Rua Manoel José Magé",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RINCÃO (Ponto 08)",
+    "complemento": "100 metros ao norte do Arroio",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DE BARRA VELHA (Ponto 05)",
+    "complemento": "Na Rua Doutor Plácido Gomes De Oliveira, altura do nº336",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA VELHA (Ponto 01)",
+    "complemento": "Em frente à Avenida Armando Petrelli, altura do nº555",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA VELHA (Ponto 02)",
+    "complemento": "Em frente à Rua Humberto Pimentel",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA VELHA (Ponto 03)",
+    "complemento": "Em frente à Rua Antônia Higina da Graça Moura",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CERRO (Ponto 06)",
+    "complemento": "Entre às Ruas Chapecó e Maria Athanasia da Costa Chaves",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SÃO MIGUEL (Ponto 01)",
+    "complemento": "Em frente ao aqueduto",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBAS (Ponto 02)",
+    "complemento": "Em frente à Rua Martin Pescador",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBAS (Ponto 04)",
+    "complemento": "Em frente à Rua Tiriba",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBAS (Ponto 05)",
+    "complemento": "Em frente à Rua Ariramba, esquerda do riacho",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBINHAS (Ponto 01)",
+    "complemento": "Em frente à Servidão Avenida Vereador Manoel José dos Santos,\naltura n°1.149",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBINHAS (Ponto 06)",
+    "complemento": "No canto direito da praia, próximo ao riacho",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE BOMBINHAS (Ponto 07)",
+    "complemento": "Em frente à Rua Castanheta",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE MORRINHOS (Ponto 11)",
+    "complemento": "Frente à Rua Almíscar",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE QUATRO ILHAS (Ponto 16)",
+    "complemento": "Frente à Rua Ilha Itamaracá",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ZIMBROS (Ponto 09)",
+    "complemento": "Em frente à Rua Rio Madeira",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ZIMBROS (Ponto 10)",
+    "complemento": "Em frente à Rua Ijuí",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CANTO GRANDE (Ponto 08)",
+    "complemento": "Em frente à Rua Jequiti, próximo ao trapiche",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CANTO GRANDE (MAR DE FORA) (Ponto 13)",
+    "complemento": "Frente à Rua Jacarandá",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CANTO GRANDE (MAR DE FORA) (Ponto 14)",
+    "complemento": "Em frente à Rua Canela",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CANTO GRANDE (MAR DE FORA) (Ponto 15)",
+    "complemento": "Em frente à Rua Acácia Negra",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CONCEIÇÃO (Ponto 12)",
+    "complemento": "Frente à Rua Palmeira",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MARISCAL (Ponto 03)",
+    "complemento": "Em frente à Avenida Água Marinha, altura do nº 3.245",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RETIRO DOS PADRES (Ponto 17)",
+    "complemento": "Final da Avenida Das Garoupas",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 37)",
+    "complemento": "Em frente à Servidão Pedro Manuel Fernandes",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 38)",
+    "complemento": "Nos Trapiches dos Serviços de Transportes",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 39)",
+    "complemento": "Em frente à Rua de acesso à Praia da Joaquina",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 41)",
+    "complemento": "No canto da Lagoa, ao lado do Posto de Saúde",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 43)",
+    "complemento": "Em frente ao acesso para o Rio Tavares",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 61)",
+    "complemento": "Em frente à Avenida das Rendeiras, altura n°1480",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 72)",
+    "complemento": "Em frente à Rua Canto da Amizade",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 96)",
+    "complemento": "Em frente à Rua Orlando Carioni, altura n°94",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA CONCEIÇÃO (Ponto 97)",
+    "complemento": "Na Rua Vereador Osni Ortiga, em frente à Servidão Das Cicas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DO PERI (Ponto 74)",
+    "complemento": "Na Lagoa do Peri, em frente à sede do Parque",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 24)",
+    "complemento": "Próximo à foz do riacho (Costão Sul, no mar)",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 25)",
+    "complemento": "Em frente a Rua Sinésio Duarte, ao lado do Posto de Salva Vidas",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 69)",
+    "complemento": "No riacho",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 79)",
+    "complemento": "Em frente à rotatoria, no início da Avenida Traugott Wildi",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO PÂNTANO DO SUL (Ponto 44)",
+    "complemento": "Em frente à Igreja da Vila",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO PÂNTANO DO SUL (Ponto 64)",
+    "complemento": "Na Foz do Rio Sangradouro (no rio)",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO PÂNTANO DO SUL (PONTO 92)",
+    "complemento": "Em frente à Lagoa do Peri, Praia do Caldeirão",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA DA LAGOA (Ponto 32)",
+    "complemento": "Aproximadamente 50 metros à esquerda dos molhes",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BARRA DA LAGOA (PONTO 88)",
+    "complemento": "Em frente à Rua Aconchego do Mar",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BASE AÉREA (Ponto 49)",
+    "complemento": "Ao lado do trapiche",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BEIRA MAR NORTE (Ponto 11)",
+    "complemento": "Em frente ao Monumento da Polícia Militar",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BEIRA MAR NORTE (Ponto 94)",
+    "complemento": "Em frente à Praça Esteves Junior",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BEIRA MAR NORTE (Ponto 95)",
+    "complemento": "Em frente à Rua Altamiro Guimarães",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA CACHOEIRA DO BOM JESUS (Ponto 56)",
+    "complemento": "Em frente ao trevo dos Inglêses",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA CACHOEIRA DO BOM JESUS (Ponto 80)",
+    "complemento": "Em frente à Rua Deputado Otacílio Costa",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA CAIACANGAÇÚ (Ponto 63)",
+    "complemento": "Estrada Geral do Ribeirão, altura do n°12820",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA DANIELA (Ponto 16)",
+    "complemento": "Em frente à Rua dos Cactos",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA DANIELA (PONTO 84)",
+    "complemento": "Em frente à Rua das Hortências",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA JOAQUINA (Ponto 33)",
+    "complemento": "Em frente ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA LAGOINHA (Ponto 26)",
+    "complemento": "À esquerda da saída da Lagoa",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA LAGOINHA (Ponto 86)",
+    "complemento": "Estrada Jornalista Jaime de Arruda Ramos, altura do n°1946 A",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA SAUDADE (Ponto 04)",
+    "complemento": "No canto esquerdo da praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA SOLIDÃO (Ponto 65)",
+    "complemento": "Na Foz do Rio das Pacas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA TAPERA (Ponto 48)",
+    "complemento": "No meio da praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS PALMEIRAS (Ponto 07)",
+    "complemento": "No meio da praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANAJURÊ (Ponto 68)",
+    "complemento": "Em frente à Rua Servidão Valdemar Medeiros",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 20)",
+    "complemento": "Em frente à Rua das Flôres",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 21)",
+    "complemento": "Em frente à Avenida das Nações",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 22)",
+    "complemento": "À esquerda do trapiche",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 55)",
+    "complemento": "Em frente à Rua Heitor Bitencourt",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 59)",
+    "complemento": "Em frente à Rua Acary Margarida",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 60)",
+    "complemento": "No canto esquerdo, próximo às pedras",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 81)",
+    "complemento": "Em frente à Rua Afonso Cardoso da Veiga",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANASVIEIRAS (Ponto 82)",
+    "complemento": "Em frente à Rua José Daux",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE (Ponto 18)",
+    "complemento": "Em frente à Rua das Moreias",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE (Ponto 19)",
+    "complemento": "Em frente à Rodovia Maurício Sirotski Sobrinho",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE (Ponto 54)",
+    "complemento": "Em frente à Rua Luis Rampa",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE (Ponto 76)",
+    "complemento": "Final da Avenida dos Buzios, em frente à rotatoria",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE INTERNACIONAL (Ponto 53)",
+    "complemento": "Em frente à Avenida dos Salmões",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE JURERE INTERNACIONAL (Ponto 85)",
+    "complemento": "Em frente à Avenida dos Pampos",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PONTA DAS CANAS (Ponto 23)",
+    "complemento": "100 metros à esquerda da Igreja",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PONTA DAS CANAS (Ponto 67)",
+    "complemento": "Estrada Geral de Ponta das Canas, altura do n°5.281, na Lagoa",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PONTA DAS CANAS (Ponto 70)",
+    "complemento": "Em frente à Rua Alcina Jannis",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PONTA DAS CANAS (Ponto 83)",
+    "complemento": "Em frente à Rua Alcina Jannis, no canal",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SAMBAQUI (Ponto 14)",
+    "complemento": "Em frente à Rua Servidão Paraíso das Flores",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SAMBAQUI (Ponto 15)",
+    "complemento": "Na Ponta do Sambaqui",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SANTO ANTÔNIO DE LISBOA (Ponto 12)",
+    "complemento": "Em frente à Praça Roldão da Rocha Pires",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SANTO ANTÔNIO DE LISBOA (Ponto 13)",
+    "complemento": "Em frente à Servidão Hipólito Machado",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BALNEÁRIO (Ponto 02)",
+    "complemento": "Em frente à Rua José Cândido da Silva",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO BOM ABRIGO (Ponto 08)",
+    "complemento": "Em frente à Rua Teófilo Almeida",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CACUPÉ (Ponto 09)",
+    "complemento": "Próximo ao n°4000 da Rodovia Haroldo Soares Glavan",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CACUPÉ (Ponto 10)",
+    "complemento": "No meio da Praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CAMPECHE (Ponto 35)",
+    "complemento": "Em frente à Avenida Pequeno Príncipe",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CAMPECHE (Ponto 73)",
+    "complemento": "No Rio, em frente à Servidão Família Nunes",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CAMPECHE (PONTO 75)",
+    "complemento": "100 metros à direita do Rio (no mar)",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CAMPECHE (PONTO 89)",
+    "complemento": "Rua Jerônimo Venâncio das Chagas, em frente à passarela de acesso",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CAMPECHE (PONTO 90)",
+    "complemento": "Nas Areias do Campeche, em frente à Rua Lomba do Sabão",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO FORTE (Ponto 17)",
+    "complemento": "Na entrada da Praia",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ITAGUAÇU (Ponto 06)",
+    "complemento": "Na Rua Desembargador Pedro Silva, em frente ao n°3130",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO JARDIM ATLÂNTICO (Ponto 01)",
+    "complemento": "Em frente à Rua Elesbão Pinto da Luz",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO JOSÉ MENDES (Ponto 52)",
+    "complemento": "No meio da Praia, em frente ao n°263",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MATADOURO (Ponto 03)",
+    "complemento": "Em frente a Rua Belmira Isabel Martins",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MEIO (Ponto 05)",
+    "complemento": "No meio da Praia, em frente ao n°2392 Coqueiros",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MOCAMBIQUE (Ponto 87)",
+    "complemento": "Na Rodovia SC 406, altura do km 10.5, em frente ao acesso",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MORRO DAS PEDRAS (PONTO 91)",
+    "complemento": "Na Rodovia Francisco Thomaz dos Santos (SC 406), n°2089",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO PANTANO DO SUL (Ponto 45)",
+    "complemento": "Em frente à Rua Abelardo Otacílio Gomes",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO PANTANO DO SUL (PONTO 93)",
+    "complemento": "Em frente à Rua José Corrêa Hulse",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO RIBEIRÃO DA ILHA (Ponto 47)",
+    "complemento": "Em frente à Travessa Sábino da Silva",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO SANTINHO (Ponto 31)",
+    "complemento": "Na Rua Raul Pereira Caldas, em frente ao Posto de Salva Vidas",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 27)",
+    "complemento": "Em frente à Rua Recanto do Sol, à esquerda do Rio Capivarí",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 28)",
+    "complemento": "Estrada Dom João Becker, em frente ao n°355",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 29)",
+    "complemento": "Em frente à Rua da Igreja",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 57)",
+    "complemento": "Em frente à Rua Ruth Pereira (Rua do Sirí)",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 58)",
+    "complemento": "Em frente à Rua Dante de Pata",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 77)",
+    "complemento": "Em frente à Rua Morro das Feiticeiras, no canto esquerdo",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 78)",
+    "complemento": "Estrada Dom João Becker, em frente ao n°305 B (tubulação, a\nesquerda do ponto 28)",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DOS INGLESES (Ponto 98)",
+    "complemento": "Na foz do Rio Capivarí (no rio)",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA MOLE (Ponto 71)",
+    "complemento": "Acesso principal, em frente a Estátua do Surfista",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DA FERRUGEM (Ponto 4)",
+    "complemento": "Estrada Geral da Ferrugem, à direita do acesso principal",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA VIGIA (PONTO 05)",
+    "complemento": "Em frente ao acesso principal",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE GAROPABA (Ponto 01)",
+    "complemento": "Em frente à praça",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE GAROPABA (Ponto 02)",
+    "complemento": "Na Rua Lauro Severiano Muller",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO SIRIÚ (Ponto 03)",
+    "complemento": "Estrada Geral da Praia do Siriú",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DA PIEDADE (Ponto 01)",
+    "complemento": "No meio da praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA BAIA DOS GOLFINHOS (Ponto 03)",
+    "complemento": "À direita do trapiche",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA CAMBOA (Ponto 09)",
+    "complemento": "Na Rua Flamboiam",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA FAZENDA DA ARMAÇÃO (Ponto 07)",
+    "complemento": "Na Rua Gregório Monteiro",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA FAZENDA DA ARMAÇÃO (Ponto 08)",
+    "complemento": "Na Rua Gerino Belmiro dos Santos - próximo ao riacho",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DAS CORDAS (Ponto 23)",
+    "complemento": "Em frente ao acesso de veículos",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CALHEIROS (Ponto 16)",
+    "complemento": "No canto esquerdo da Praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CANTO DE GANCHOS (Ponto 12)",
+    "complemento": "Na Rua Deodoro Simas Custodio, esquerda do riacho",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE GANCHOS (Ponto 13)",
+    "complemento": "Na Avenida Ganchos, altura nº1008, à direita do trapiche",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE GANCHOS DE FORA (Ponto 15)",
+    "complemento": "Em frente à vala de drenagem da Rua dos Navegantes (no mar)",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 02)",
+    "complemento": "Avenida Aderbal Ramos da Silva, em frente ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 11)",
+    "complemento": "Em frente a Rua 51, esquerda Alameda das Laranjeiras, próximo ao\nPosto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 14)",
+    "complemento": "Em frente à Rua das Samambaias",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 17)",
+    "complemento": "Em frente à Rua das Anchovas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 18)",
+    "complemento": "Em frente à Rua dos Robalos, na passarela",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 19)",
+    "complemento": "Em frente à Rua dos Lírios",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PALMAS (Ponto 20)",
+    "complemento": "Na altura do n°819 da Avenida Atlântica",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ANTENOR (Ponto 04)",
+    "complemento": "No meio da Praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ANTENOR (Ponto 05)",
+    "complemento": "No canto esquerdo, em frente ao riacho",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MAGALHÃES (Ponto 06)",
+    "complemento": "Na Rua Beija Flor, em frente à rampa",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA GRANDE (Ponto 10)",
+    "complemento": "Na Avenida Caravelas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA GRANDE (Ponto 24)",
+    "complemento": "Em frente à Rua das Garças",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DE IBIRAQUERA (Ponto 02)",
+    "complemento": "Próximo à foz da Lagoa",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA RIBANCEIRA (Ponto 04)",
+    "complemento": "Rua Joao Martins, em frente ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA VILA NOVA (Ponto 06)",
+    "complemento": "Na Rua Francisco Moreira Alves",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA VILA NOVA (Ponto 07)",
+    "complemento": "Na Rua Hans de Schimidt",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE IBIRAQUERA (Ponto 03)",
+    "complemento": "100 metros ao sul da foz da Lagoa",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO PORTO (Ponto 05)",
+    "complemento": "Próximo ao navio encalhado",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO PORTO (Ponto 08)",
+    "complemento": "Esquerda do molhe central",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ROSA (Ponto 01)",
+    "complemento": "No canto sul, próximo ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 03)",
+    "complemento": "Avenida José Medeiros Viêira, em frente à Rua Doca Rebello",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 04)",
+    "complemento": "Ao final da Avenida José Medeiros Viêira, próximo ao Posto de Salva\nVidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA BRAVA (Ponto 05)",
+    "complemento": "Em frente à Rua Martim Pescador, próximo ao Posto Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE CABEÇUDAS (Ponto 01)",
+    "complemento": "Em frente à Rua Quintino Bocaiúva",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ATALAIA (Ponto 02)",
+    "complemento": "Em frente a primeira rampa de acesso à Praia, próximo ao Posto de\nSalva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 01)",
+    "complemento": "Na Rua 113",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 02)",
+    "complemento": "Na Rua 149",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 03)",
+    "complemento": "Na Rua 227",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 04)",
+    "complemento": "Na Rua 319",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 05)",
+    "complemento": "Na Rua 205",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 07)",
+    "complemento": "Na Rua 129 E 1 - sul do Rio Bela Cruz",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 08)",
+    "complemento": "Na Rua 261",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPEMA (Ponto 09)",
+    "complemento": "Na Rua 163",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO PORTO (PONTO 10)",
+    "complemento": "Em frente à Rua n°1100",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPOÁ (Ponto 01)",
+    "complemento": "Balneário Brasília, final da Avenida 650",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPOÁ (Ponto 02)",
+    "complemento": "Balneário Paese, entre à Rua 1020 e 1030",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPOÁ (Ponto 03)",
+    "complemento": "Balneário Palmeiras, em frente à Rua 1970",
+    "data_coleta": "22/12/2025",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPOÁ (Ponto 04)",
+    "complemento": "Balneário Barra do Saí, em frente à Rua 20 Alcinei Avanzi",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPOÁ (Ponto 05)",
+    "complemento": "Balneário Barra do Saí, Avenida Dom Henrique ll, em frente ao\nmiradouro (no Rio)",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "Praia do Pontal do Norte (Ponto 06)",
+    "complemento": "À esquerda do Farol do Pontal, próximo ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "CANAL DO CAMACHO (Ponto 03)",
+    "complemento": "A direita da placa limítrofe de Laguna-Jaguaruna, no canal",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "LAGOA DO ARROIO CORRENTE (Ponto 02)",
+    "complemento": "Na entrada de água do Chuveirão",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO ARROIO CORRENTE (Ponto 01)",
+    "complemento": "70 metros ao sul da foz do Arroio Corrente, próximo ao Posto de Salva\nVidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO VIGORELLI (Ponto 01)",
+    "complemento": "À direita do trapiche",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "LAGOA DE CABEÇUDA (Ponto 04)",
+    "complemento": "Em frente ao Km 313 da BR 101",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA TERESA (Ponto 05)",
+    "complemento": "No meio da praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE ITAPIRUBÁ (Ponto 01)",
+    "complemento": "100 m do costão sul",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO CARDOSO (Ponto 06)",
+    "complemento": "Extrema esquerda da praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO GI (Ponto 02)",
+    "complemento": "Em frente ao posto Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO MAR GROSSO (Ponto 03)",
+    "complemento": "Em frente ao emissário da CASAN",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAINHA DO FAROL (Ponto 07)",
+    "complemento": "Na entrada da praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE NAVEGANTES (Ponto 02)",
+    "complemento": "Em frente à Rua Jaraguá do Sul, próximo ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE NAVEGANTES (Ponto 03)",
+    "complemento": "Em frente à Rua Julia Cardoso do Nascimento",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE NAVEGANTES (Ponto 04)",
+    "complemento": "Na foz do Rio Gravatá",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE NAVEGANTES (Ponto 05)",
+    "complemento": "Em frente à Avenida João Sacavem",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "GUARDA DO EMBAU (Ponto 03)",
+    "complemento": "No Rio, em frente à vila",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA PINHEIRA (Ponto 02)",
+    "complemento": "Em frente à Rua Manoel Martins (Rua dos Pescadores)",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA PINHEIRA (Ponto 05)",
+    "complemento": "Rua Beira Rio, no Rio próximo a foz",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA PINHEIRA (Ponto 06)",
+    "complemento": "Avenida Cardida Freitas da Rosa, em frente ao Posto de Salva Vidas",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE FORA (Ponto 04)",
+    "complemento": "Em frente à Rua Antônio Júlio Fagundes",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE FORA (PONTO 07)",
+    "complemento": "Em frente a Rua Girassol",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DO SONHO (Ponto 01)",
+    "complemento": "Em frente à Rua Canindé",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "BRAÇO MORTO DO RIO MAMPITUBA (Ponto 02)",
+    "complemento": "Rua Beira Rio, próximo ao n°304, na ponte",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PASSO DE TORRES (Ponto 01)",
+    "complemento": "Em frente à Rua Vinte de Maio",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA ALEGRE (Ponto 01)",
+    "complemento": "Em frente à Travessa Particular Marcelo dos Santos",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA ALEGRE (Ponto 02)",
+    "complemento": "Na Rua Abraão João Francisco, altura do n°709",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO ITAPOCORÓI (Ponto 03)",
+    "complemento": "Em frente à Rua Inês de Souza (Praia do Quilombo)",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO ITAPOCORÓI (Ponto 04)",
+    "complemento": "Em frente à Rua Blumenau (Praia da Fortaleza)",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO ITAPOCORÓI (Ponto 05)",
+    "complemento": "Em frente à Rua Maria Emília Costa",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA ARMAÇÃO DO ITAPOCORÓI (Ponto 11)",
+    "complemento": "Em frente à Rua Antônio Costa",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DA SAUDADE (Ponto 06)",
+    "complemento": "Em frente à Rua Possidônio Silva Marçal",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE SÃO MIGUEL (Ponto 10)",
+    "complemento": "Em frente à Rua Arno Becker",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA GRANDE (Ponto 08)",
+    "complemento": "Rua Waldemar Werner, em frente ao n°193 (próximo às pedras)",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA VERMELHA (Ponto 09)",
+    "complemento": "Frente à Rua Antônio Benjamin da Costa (acesso à Praia Vermelha)",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAINHA DA PENHA (Ponto 07)",
+    "complemento": "Ao final da Avenida Prefeito Henrique Assis, em frente à rótula de\nretorno (Bacia da Vovó)",
+    "data_coleta": "13/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PEREQUÊ (Ponto 03)",
+    "complemento": "Foz do rio Perequezinho",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PEREQUÊ (Ponto 04)",
+    "complemento": "Rua Rubens Alves",
+    "data_coleta": "12/01/2026",
+    "situacao": "IMPRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PEREQUÊ (Ponto 05)",
+    "complemento": "Rua Alm. Fonseca Neves",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PORTO BELO (Ponto 01)",
+    "complemento": "Rua Manoel F. da S. Neto - ao lado do trapiche",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PORTO BELO (Ponto 02)",
+    "complemento": "Rua João B. Guerreiro",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE PORTO BELO (Ponto 06)",
+    "complemento": "Rua Cap. Gualberto Leal Nunes",
+    "data_coleta": "12/01/2026",
+    "situacao": "PRÓPRIA"
+  },
+  {
+    "local": "PRAIA DE GUARAREMA (Ponto 01)",
+    "complemento": "Canto esquerdo da praia",
+    "data_coleta": "13/01/2026",
+    "situacao": "IMPRÓPRIA"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "cidade": "Araranguá",
+    "praia": "Praia do Morro dos Conventos"
+  },
+  {
+    "cidade": "Balneário Arroio do Silva",
+    "praia": "Praia do Arroio do Silva"
+  },
+  {
+    "cidade": "Balneário Gaivota",
+    "praia": "Arroio da Praia das Gaivotas"
+  },
+  {
+    "cidade": "Balneário Gaivota",
+    "praia": "Praia das Gaivotas"
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "praia": "Praia de Laranjeiras"
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "praia": "Praia de Taquaras"
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "praia": "Praia do Balneário Camboriú"
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "praia": "Praia do Estaleirinho"
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "praia": "Praia do Estaleiro"
+  },
+  {
+    "cidade": "Balneário Barra do Sul",
+    "praia": "Canal do Linguado"
+  },
+  {
+    "cidade": "Balneário Barra do Sul",
+    "praia": "Praia da Barra do Sul"
+  },
+  {
+    "cidade": "Balneário Piçarras",
+    "praia": "Praia de Piçarras"
+  },
+  {
+    "cidade": "Balneário Rincão",
+    "praia": "Lagoa do Faxinal"
+  },
+  {
+    "cidade": "Balneário Rincão",
+    "praia": "Lagoa dos Esteves"
+  },
+  {
+    "cidade": "Balneário Rincão",
+    "praia": "Lagoa dos Freitas"
+  },
+  {
+    "cidade": "Balneário Rincão",
+    "praia": "Praia do Rincão"
+  },
+  {
+    "cidade": "Barra Velha",
+    "praia": "Lagoa de Barra Velha"
+  },
+  {
+    "cidade": "Barra Velha",
+    "praia": "Praia da Barra Velha"
+  },
+  {
+    "cidade": "Barra Velha",
+    "praia": "Praia do Cerro"
+  },
+  {
+    "cidade": "Biguaçu",
+    "praia": "Praia de São Miguel"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia de Bombas"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia de Bombinhas"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia de Morrinhos"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia de Quatro Ilhas"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia de Zimbros"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia do Canto Grande"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia do Canto Grande (Mar de Fora)"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia do Conceição"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia do Mariscal"
+  },
+  {
+    "cidade": "Bombinhas",
+    "praia": "Praia do Retiro dos Padres"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Lagoa da Conceição"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Lagoa do Peri"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia Brava"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Armação do Pântano do Sul"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Barra da Lagoa"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Base Aérea"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Beira-Mar Norte"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Cachoeira do Bom Jesus"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Caiacangaçu"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Daniela"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Joaquina"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Lagoinha"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Saudade"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Solidão"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia da Tapera"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia das Palmeiras"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Canajurê"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Canasvieiras"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Jurerê"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Jurerê Internacional"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Ponta das Canas"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Sambaqui"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia de Santo Antônio de Lisboa"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Balneário"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Bom Abrigo"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Cacupé"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Campeche"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Forte"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Itaguaçu"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Jardim Atlântico"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do José Mendes"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Matadouro"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Meio"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Moçambique"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Morro das Pedras"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Pântano do Sul"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Ribeirão da Ilha"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia do Santinho"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia dos Ingleses"
+  },
+  {
+    "cidade": "Florianópolis",
+    "praia": "Praia Mole"
+  },
+  {
+    "cidade": "Garopaba",
+    "praia": "Lagoa da Ferrugem"
+  },
+  {
+    "cidade": "Garopaba",
+    "praia": "Praia da Vigia"
+  },
+  {
+    "cidade": "Garopaba",
+    "praia": "Praia de Garopaba"
+  },
+  {
+    "cidade": "Garopaba",
+    "praia": "Praia do Siriú"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia da Armação da Piedade"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia da Baía dos Golfinhos"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia da Camboa"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia da Fazenda da Armação"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia das Cordas"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia de Calheiros"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia de Canto de Ganchos"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia de Ganchos"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia de Ganchos de Fora"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia de Palmas"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia do Antenor"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia do Magalhães"
+  },
+  {
+    "cidade": "Governador Celso Ramos",
+    "praia": "Praia Grande"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Lagoa de Ibiraquera"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Praia da Ribanceira"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Praia da Vila Nova"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Praia de Ibiraquera"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Praia do Porto"
+  },
+  {
+    "cidade": "Imbituba",
+    "praia": "Praia do Rosa"
+  },
+  {
+    "cidade": "Itajaí",
+    "praia": "Praia Brava"
+  },
+  {
+    "cidade": "Itajaí",
+    "praia": "Praia de Cabeçudas"
+  },
+  {
+    "cidade": "Itajaí",
+    "praia": "Praia do Atalaia"
+  },
+  {
+    "cidade": "Itapema",
+    "praia": "Praia de Itapema"
+  },
+  {
+    "cidade": "Itapema",
+    "praia": "Praia do Porto"
+  },
+  {
+    "cidade": "Itapoá",
+    "praia": "Praia de Itapoá"
+  },
+  {
+    "cidade": "Itapoá",
+    "praia": "Praia do Pontal do Norte"
+  },
+  {
+    "cidade": "Jaguaruna",
+    "praia": "Canal do Camacho"
+  },
+  {
+    "cidade": "Jaguaruna",
+    "praia": "Lagoa do Arroio Corrente"
+  },
+  {
+    "cidade": "Jaguaruna",
+    "praia": "Praia do Arroio Corrente"
+  },
+  {
+    "cidade": "Joinville",
+    "praia": "Praia do Vigorelli"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Lagoa de Cabeçuda"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Praia da Teresa"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Praia de Itapirubá"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Praia do Cardoso"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Praia do Gi"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Praia do Mar Grosso"
+  },
+  {
+    "cidade": "Laguna",
+    "praia": "Prainha do Farol"
+  },
+  {
+    "cidade": "Navegantes",
+    "praia": "Praia de Navegantes"
+  },
+  {
+    "cidade": "Palhoça",
+    "praia": "Guarda do Embaú"
+  },
+  {
+    "cidade": "Palhoça",
+    "praia": "Praia da Pinheira"
+  },
+  {
+    "cidade": "Palhoça",
+    "praia": "Praia de Fora"
+  },
+  {
+    "cidade": "Palhoça",
+    "praia": "Praia do Sonho"
+  },
+  {
+    "cidade": "Passo de Torres",
+    "praia": "Braço Morto do Rio Mampituba"
+  },
+  {
+    "cidade": "Passo de Torres",
+    "praia": "Praia de Passo de Torres"
+  },
+  {
+    "cidade": "Paulo Lopes",
+    "praia": "Praia da Guarda do Embaú"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia Alegre"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia da Armação do Itapocorói"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia da Saudade"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia de São Miguel"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia Grande"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Praia Vermelha"
+  },
+  {
+    "cidade": "Penha",
+    "praia": "Prainha da Penha"
+  },
+  {
+    "cidade": "Porto Belo",
+    "praia": "Praia de Perequê"
+  },
+  {
+    "cidade": "Porto Belo",
+    "praia": "Praia de Porto Belo"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Praia da Enseada"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Praia de Itaguaçu"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Praia de Ubatuba"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Praia do Capri"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Praia dos Paulas"
+  },
+  {
+    "cidade": "São Francisco do Sul",
+    "praia": "Prainha da Enseada"
+  },
+  {
+    "cidade": "São José",
+    "praia": "Praia de Guararema"
+  }
+]
