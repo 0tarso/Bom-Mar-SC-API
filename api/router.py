@@ -2,8 +2,13 @@ from fastapi import APIRouter
 from api.deps import api_key_dep
 import json
 import os
+from datetime import datetime
 
-from services.atualizar_relatorio import atualizar_relatorio
+from services.atualizar_dados import buscar_dados_IMA
+from services.salvar_relatorio import salvar_novo_relatorio
+
+from services.transformar_dados import tranformar_dados
+
 
 router = APIRouter(prefix="/v1", dependencies=[api_key_dep])
 
@@ -20,12 +25,20 @@ def balneabilidade():
     return {"total": len(dados), "dados": dados}
 
 
-@router.get("/health")
-def health():
+@router.get("/verificar-api")
+def verificar_api():
     return {"status": "ok"}
 
 
-@router.get("/update")
-def update():
-    response = atualizar_relatorio()
-    return response
+@router.get("/atualizar-relatorio")
+def atualizar_relatorio():
+    dados_brutos = buscar_dados_IMA()
+    dados_formatados = tranformar_dados(dados_brutos)
+
+    salvar_novo_relatorio(dados_formatados)
+
+    return {
+        "atualizado_em": datetime.utcnow().isoformat(),
+        "total_municípios": len(dados_formatados),
+        "dados": dados_formatados,
+    }
