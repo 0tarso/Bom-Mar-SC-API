@@ -7,6 +7,7 @@ from datetime import datetime
 from services.salvar_relatorio import salvar_novo_relatorio
 
 from services.transformar_dados import tranformar_dados
+from services.buscar_dados import buscar_dados_IMA
 
 
 router = APIRouter(prefix="/v1", dependencies=[api_key_dep])
