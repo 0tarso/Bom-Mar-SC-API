@@ -4,7 +4,6 @@ import json
 import os
 from datetime import datetime
 
-from services.atualizar_dados import buscar_dados_IMA
 from services.salvar_relatorio import salvar_novo_relatorio
 
 from services.transformar_dados import tranformar_dados
