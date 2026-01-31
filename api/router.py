@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Query, HTTPException
 from api.deps import api_key_dep
 import json
 import os
@@ -8,6 +8,7 @@ from services.salvar_relatorio import salvar_novo_relatorio
 
 from services.transformar_dados import tranformar_dados
 from services.buscar_dados import buscar_dados_IMA
+from services.buscar_distancia import buscar_distancia
 
 
 router = APIRouter(prefix="/v1", dependencies=[api_key_dep])
@@ -23,6 +24,21 @@ def balneabilidade():
         dados = json.load(arquivo)
 
     return {"total": len(dados), "dados": dados}
+
+
+@router.get("/distancia")
+async def distance(
+    de_lat: float = Query(...),
+    de_lng: float = Query(...),
+    para_lat: float = Query(...),
+    para_lng: float = Query(...),
+):
+    try:
+        data = await buscar_distancia(de_lng, de_lat, para_lng, para_lat)
+        return {"data": data}
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail="Erro ao calcular rota")
 
 
 @router.get("/verificar-api")
